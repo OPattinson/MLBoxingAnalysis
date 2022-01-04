@@ -1,13 +1,13 @@
 {
   "annotation_results": [ {
-    "input_uri": "/op-boxing-analysis2/Photos(1)/jab36.mp4",
+    "input_uri": "/op-boxing-analysis2/LSTM_data/jab36.mp4",
     "segment": {
       "start_time_offset": {
       
       },
       "end_time_offset": {
         "seconds": 1,
-        "nanos": 401400000
+        "nanos": 935266000
       }
     },
     "person_detection_annotations": [ {
@@ -18,2325 +18,2605 @@
           },
           "end_time_offset": {
             "seconds": 1,
-            "nanos": 401400000
+            "nanos": 901900000
           }
         },
         "timestamped_objects": [ {
           "normalized_bounding_box": {
-            "left": 0.41822916,
-            "top": 0.087962963,
-            "right": 0.66510415,
-            "bottom": 0.98796296
+            "left": 0.45937499,
+            "top": 0.29305556,
+            "right": 0.57499999,
+            "bottom": 0.97916663
           },
           "time_offset": {
           
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.0013217311,
+            "confidence": 0.00010330472,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0068179835,
+            "confidence": 0.0048769573,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.034004685,
+            "confidence": 0.0030740725,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.75137788,
+            "confidence": 0.23407227,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0012432358,
+            "confidence": 0.029959796,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 5.3676704e-05,
+            "confidence": 0.0092596402,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.015381337,
+            "confidence": 0.025093302,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0016415791,
+            "confidence": 0.00057678099,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.90995198,
+            "confidence": 0.41910592,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.010078884,
+            "confidence": 0.29776502,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.002616192,
+            "confidence": 0.00039608954,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.010164035,
+            "confidence": 0.00032998767,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.68506938,
+            "confidence": 0.90432149,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 8.4339139e-05,
+            "confidence": 0.00072589557,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00012368764,
+            "confidence": 6.2440531e-06,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.073665328,
+            "confidence": 0.0052930112,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.034567237,
+            "confidence": 0.0062861461,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.018253991,
+            "confidence": 0.7583245,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0032852858,
+            "confidence": 0.039494552,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0038560003,
+            "confidence": 0.0010997555,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.16044693,
+            "confidence": 0.90621573,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.19462289,
+            "confidence": 0.034766227,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0022559627,
+            "confidence": 0.00041120005,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.011061601,
+            "confidence": 0.0025872025,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 2.8000455e-05,
+            "confidence": 0.0028996184,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00042870204,
+            "confidence": 1.4360137e-06,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.095523559,
+            "confidence": 0.014181698,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.78359592,
+            "confidence": 0.0014181631,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.027046699,
+            "confidence": 0.0057537002,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.51321673,
+            "confidence": 0.037702724,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.0055000419,
+            "confidence": 0.00014233617,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.69317746,
+            "confidence": 0.98020923,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.55107373,
-              "y": 0.26110297
+              "x": 0.50019419,
+              "y": 0.37659174
             },
-            "confidence": 0.97139001
+            "confidence": 0.97764826
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.56542391,
-              "y": 0.23135179
+              "x": 0.50747317,
+              "y": 0.36365911
             },
-            "confidence": 0.99051815
+            "confidence": 0.98905253
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.53194022,
-              "y": 0.23135179
+              "x": 0.49473485,
+              "y": 0.36365911
             },
-            "confidence": 0.99547017
+            "confidence": 0.97558093
           }, {
             "name": "left_ear",
             "point": {
-              "x": 0.58216572,
-              "y": 0.23135179
+              "x": 0.52385104,
+              "y": 0.36365911
             },
-            "confidence": 0.43959802
+            "confidence": 0.92294639
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.50084829,
-              "y": 0.23135179
+              "x": 0.48927554,
+              "y": 0.36365911
             },
-            "confidence": 0.84413618
+            "confidence": 0.16090477
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.5941242,
-              "y": 0.35460675
+              "x": 0.54386836,
+              "y": 0.42185605
             },
-            "confidence": 0.54440171
+            "confidence": 0.85611296
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.46258119,
-              "y": 0.36310712
+              "x": 0.48927554,
+              "y": 0.42185605
             },
-            "confidence": 0.75570071
+            "confidence": 0.73230875
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.64434969,
-              "y": 0.55436474
+              "x": 0.56024617,
+              "y": 0.51238453
             },
-            "confidence": 0.82575238
+            "confidence": 0.83269483
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.44344771,
-              "y": 0.57136548
+              "x": 0.46743846,
+              "y": 0.48975244
             },
-            "confidence": 0.8908208
+            "confidence": 0.81741911
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.61086613,
-              "y": 0.36310712
+              "x": 0.53113008,
+              "y": 0.47035348
             },
-            "confidence": 0.79150254
+            "confidence": 0.66260147
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.49128151,
-              "y": 0.36735725
+              "x": 0.48199654,
+              "y": 0.43802184
             },
-            "confidence": 0.7068125
+            "confidence": 0.67302656
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.58934087,
-              "y": 0.80937499
+              "x": 0.53294975,
+              "y": 0.61261261
             },
-            "confidence": 0.53823143
+            "confidence": 0.7762261
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.48649815,
-              "y": 0.80937499
+              "x": 0.49837437,
+              "y": 0.60937947
             },
-            "confidence": 0.54341388
+            "confidence": 0.7525239
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.53113008,
+              "y": 0.76133806
+            },
+            "confidence": 0.85475981
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.49291506,
+              "y": 0.7354728
+            },
+            "confidence": 0.70433068
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.55478698,
+              "y": 0.92299616
+            },
+            "confidence": 0.80766439
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.50565338,
+              "y": 0.83570081
+            },
+            "confidence": 0.80755746
           } ]
         }, {
           "normalized_bounding_box": {
-            "left": 0.41822919,
-            "top": 0.087038472,
-            "right": 0.66666424,
-            "bottom": 0.98796296
+            "left": 0.46015507,
+            "top": 0.295829,
+            "right": 0.57578009,
+            "bottom": 0.97916669
           },
           "time_offset": {
             "nanos": 100100000
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.0017315855,
+            "confidence": 5.7431214e-05,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.014561313,
+            "confidence": 0.0050265864,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.057401739,
+            "confidence": 0.0060218005,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.72542608,
+            "confidence": 0.15421344,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00084554334,
+            "confidence": 0.040933032,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 4.0372473e-05,
+            "confidence": 0.048549097,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.013825382,
+            "confidence": 0.020011635,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00089510478,
+            "confidence": 0.001072594,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.89324343,
+            "confidence": 0.34216663,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.011765926,
+            "confidence": 0.29316825,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0025981606,
+            "confidence": 0.000247458,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0070851096,
+            "confidence": 0.00047405099,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.72521943,
+            "confidence": 0.93123668,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 4.248842e-05,
+            "confidence": 0.00055675098,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00014489406,
+            "confidence": 2.9228711e-06,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.10672071,
+            "confidence": 0.011004374,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.037445057,
+            "confidence": 0.0045614727,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.013831152,
+            "confidence": 0.81955433,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0020678956,
+            "confidence": 0.049219016,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0058659101,
+            "confidence": 0.0008556465,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.21255776,
+            "confidence": 0.90577567,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.17003848,
+            "confidence": 0.019810474,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.001168952,
+            "confidence": 0.000889647,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0067820786,
+            "confidence": 0.011177453,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 1.5172442e-05,
+            "confidence": 0.028787328,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00065986649,
+            "confidence": 3.2184562e-06,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.17741726,
+            "confidence": 0.0077575021,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.61920136,
+            "confidence": 0.0035263193,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.013249073,
+            "confidence": 0.020086844,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.58750355,
+            "confidence": 0.02755779,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.0017636858,
+            "confidence": 0.00098507223,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.66460109,
+            "confidence": 0.97397649,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.54932666,
-              "y": 0.26439959
+              "x": 0.50285131,
+              "y": 0.3817704
             },
-            "confidence": 0.96428764
+            "confidence": 0.96469796
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.56368977,
-              "y": 0.23462151
+              "x": 0.51010954,
+              "y": 0.3688747
             },
-            "confidence": 0.99158961
+            "confidence": 0.97503209
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.53017586,
-              "y": 0.23462151
+              "x": 0.49740759,
+              "y": 0.3688747
             },
-            "confidence": 0.99145746
+            "confidence": 0.97268724
           }, {
             "name": "left_ear",
             "point": {
-              "x": 0.58044666,
-              "y": 0.23036753
+              "x": 0.52644056,
+              "y": 0.3688747
             },
-            "confidence": 0.46515355
+            "confidence": 0.90953106
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.49905583,
-              "y": 0.23036753
+              "x": 0.49196392,
+              "y": 0.37209865
             },
-            "confidence": 0.87296081
+            "confidence": 0.1428964
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.59959751,
-              "y": 0.35373378
+              "x": 0.54640079,
+              "y": 0.4269053
             },
-            "confidence": 0.56605744
+            "confidence": 0.81120747
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.46314809,
-              "y": 0.36649585
+              "x": 0.49014935,
+              "y": 0.43012923
             },
-            "confidence": 0.81074053
+            "confidence": 0.68538404
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.64508069,
-              "y": 0.54941821
+              "x": 0.5609172,
+              "y": 0.5139513
             },
-            "confidence": 0.83046174
+            "confidence": 0.80044353
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.44160345,
-              "y": 0.58345032
+              "x": 0.46837464,
+              "y": 0.5010556
             },
-            "confidence": 0.89840758
+            "confidence": 0.8462311
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.60677904,
-              "y": 0.36649585
+              "x": 0.5336988,
+              "y": 0.45592067
             },
-            "confidence": 0.79491067
+            "confidence": 0.60941494
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.48708659,
-              "y": 0.38776588
+              "x": 0.48107657,
+              "y": 0.44302496
             },
-            "confidence": 0.69769943
+            "confidence": 0.67427802
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.59002215,
-              "y": 0.82167482
+              "x": 0.53551346,
+              "y": 0.61711681
             },
-            "confidence": 0.49554241
+            "confidence": 0.75264955
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.48708659,
-              "y": 0.82167482
+              "x": 0.50103676,
+              "y": 0.61711681
             },
-            "confidence": 0.56820154
+            "confidence": 0.77256656
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.5336988,
+              "y": 0.76864123
+            },
+            "confidence": 0.8722502
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.49377847,
+              "y": 0.73962587
+            },
+            "confidence": 0.68533218
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.55547357,
+              "y": 0.92338961
+            },
+            "confidence": 0.81133807
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.5064804,
+              "y": 0.83634371
+            },
+            "confidence": 0.82569575
           } ]
         }, {
           "normalized_bounding_box": {
-            "left": 0.41580781,
-            "top": 0.089666523,
-            "right": 0.66758728,
-            "bottom": 0.98889476
+            "left": 0.46012181,
+            "top": 0.29580349,
+            "right": 0.57431436,
+            "bottom": 0.97786385
           },
           "time_offset": {
             "nanos": 200200000
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.001728132,
+            "confidence": 4.7676414e-05,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.015777513,
+            "confidence": 0.0053548352,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.043226339,
+            "confidence": 0.0020549218,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.71043754,
+            "confidence": 0.097564414,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0011760513,
+            "confidence": 0.028624911,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00014630884,
+            "confidence": 0.077838242,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.01234034,
+            "confidence": 0.019686252,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00096609234,
+            "confidence": 0.0011866798,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.9046706,
+            "confidence": 0.29627085,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.017308025,
+            "confidence": 0.40424958,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0020115213,
+            "confidence": 0.00028855025,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0091251144,
+            "confidence": 0.00069190434,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.81819409,
+            "confidence": 0.93701619,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 4.1621788e-05,
+            "confidence": 0.0010538169,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0001278058,
+            "confidence": 2.7047847e-06,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.079118438,
+            "confidence": 0.006121187,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.033469919,
+            "confidence": 0.0053460551,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.02092913,
+            "confidence": 0.85620344,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0028029974,
+            "confidence": 0.037526302,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0045957086,
+            "confidence": 0.00089500856,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.143309,
+            "confidence": 0.90164238,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.10841791,
+            "confidence": 0.013374676,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0014420088,
+            "confidence": 0.00099744136,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.010187403,
+            "confidence": 0.0078243287,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 5.9348327e-05,
+            "confidence": 0.027770093,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00038388945,
+            "confidence": 3.1906704e-06,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.22098456,
+            "confidence": 0.0097943591,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.69972783,
+            "confidence": 0.0032897282,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.016556842,
+            "confidence": 0.018693846,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.52027607,
+            "confidence": 0.020061886,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.003769563,
+            "confidence": 0.0013231236,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.71526188,
+            "confidence": 0.97510719,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.54632062,
-              "y": 0.2671406
+              "x": 0.50423175,
+              "y": 0.38254175
             },
-            "confidence": 0.96546149
+            "confidence": 0.96111405
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.56304353,
-              "y": 0.23317783
+              "x": 0.51147282,
+              "y": 0.3696765
             },
-            "confidence": 0.98973256
+            "confidence": 0.98863304
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.52959776,
-              "y": 0.23317783
+              "x": 0.49880093,
+              "y": 0.3696765
             },
-            "confidence": 0.99268425
+            "confidence": 0.96143377
           }, {
             "name": "left_ear",
             "point": {
-              "x": 0.57976621,
-              "y": 0.23317783
+              "x": 0.52776533,
+              "y": 0.36646026
             },
-            "confidence": 0.49457204
+            "confidence": 0.93496192
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.49854109,
-              "y": 0.23317783
+              "x": 0.49155983,
+              "y": 0.3696765
             },
-            "confidence": 0.89248079
+            "confidence": 0.23864236
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.60126704,
-              "y": 0.3562929
+              "x": 0.54767841,
+              "y": 0.42435384
             },
-            "confidence": 0.55860233
+            "confidence": 0.85464239
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.46270648,
-              "y": 0.36902896
+              "x": 0.49155983,
+              "y": 0.43078646
             },
-            "confidence": 0.8377021
+            "confidence": 0.72674799
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.64665759,
-              "y": 0.55157882
+              "x": 0.55672979,
+              "y": 0.51119423
             },
-            "confidence": 0.88061821
+            "confidence": 0.78808367
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.43881673,
-              "y": 0.58978701
+              "x": 0.46802625,
+              "y": 0.50154531
             },
-            "confidence": 0.8683517
+            "confidence": 0.81841755
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.60365605,
-              "y": 0.36478361
+              "x": 0.52957571,
+              "y": 0.44365171
             },
-            "confidence": 0.71864814
+            "confidence": 0.67985868
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.48898524,
-              "y": 0.40299168
+              "x": 0.48431879,
+              "y": 0.446868
             },
-            "confidence": 0.69302738
+            "confidence": 0.65697604
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.59410018,
-              "y": 0.81903583
+              "x": 0.53862703,
+              "y": 0.61733258
             },
-            "confidence": 0.53375852
+            "confidence": 0.74699539
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.48898524,
-              "y": 0.81479043
+              "x": 0.5024215,
+              "y": 0.61733258
             },
-            "confidence": 0.51733661
+            "confidence": 0.74890137
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.53500652,
+              "y": 0.77171552
+            },
+            "confidence": 0.82794666
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.49337015,
+              "y": 0.73633611
+            },
+            "confidence": 0.65651256
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.55491954,
+              "y": 0.92609847
+            },
+            "confidence": 0.85180962
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.50604206,
+              "y": 0.83604175
+            },
+            "confidence": 0.81524563
           } ]
         }, {
           "normalized_bounding_box": {
-            "left": 0.40859595,
-            "top": 0.076803878,
-            "right": 0.67019761,
-            "bottom": 0.98182923
+            "left": 0.46074697,
+            "top": 0.29559749,
+            "right": 0.57338881,
+            "bottom": 0.9800967
           },
           "time_offset": {
             "nanos": 300300000
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.0022948273,
+            "confidence": 6.6899207e-05,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0096647758,
+            "confidence": 0.010625705,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.11553319,
+            "confidence": 0.0011788597,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.5341723,
+            "confidence": 0.088831872,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0029218502,
+            "confidence": 0.02241927,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00026710131,
+            "confidence": 0.046319563,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.010437335,
+            "confidence": 0.022648694,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.002391224,
+            "confidence": 0.0011193391,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.81943047,
+            "confidence": 0.29449907,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0095054694,
+            "confidence": 0.49329421,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0034152372,
+            "confidence": 0.00038453189,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.025358627,
+            "confidence": 0.00070638483,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.85858285,
+            "confidence": 0.92998159,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 3.5445479e-05,
+            "confidence": 0.0015479578,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00016068072,
+            "confidence": 3.953226e-06,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.18801421,
+            "confidence": 0.0037178744,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.031757098,
+            "confidence": 0.0072503374,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.037407216,
+            "confidence": 0.85847926,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0042829108,
+            "confidence": 0.030178515,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0039997068,
+            "confidence": 0.0012241569,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.076149508,
+            "confidence": 0.89307237,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.080519721,
+            "confidence": 0.014113427,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0050390302,
+            "confidence": 0.00084390154,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.064513251,
+            "confidence": 0.0039079511,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00020186638,
+            "confidence": 0.011497203,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00026996815,
+            "confidence": 3.001858e-06,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.14548244,
+            "confidence": 0.011484089,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.83237445,
+            "confidence": 0.0024591603,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.089698032,
+            "confidence": 0.013257733,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.44069827,
+            "confidence": 0.018279713,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.026786698,
+            "confidence": 0.00067480956,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.64892745,
+            "confidence": 0.97856301,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.56056052,
-              "y": 0.26587668
+              "x": 0.50393301,
+              "y": 0.38490015
             },
-            "confidence": 0.97461367
+            "confidence": 0.96864307
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.57259673,
-              "y": 0.23165447
+              "x": 0.51120347,
+              "y": 0.36875352
             },
-            "confidence": 0.99436033
+            "confidence": 1.0015022
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.54130274,
-              "y": 0.23165447
+              "x": 0.49848023,
+              "y": 0.37198284
             },
-            "confidence": 0.99734306
+            "confidence": 0.96502471
           }, {
             "name": "left_ear",
             "point": {
-              "x": 0.58463281,
-              "y": 0.23165447
+              "x": 0.52756196,
+              "y": 0.36875352
             },
-            "confidence": 0.062885016
+            "confidence": 0.87905729
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.50037992,
-              "y": 0.23593223
+              "x": 0.49120981,
+              "y": 0.37198284
             },
-            "confidence": 0.96225595
+            "confidence": 0.19009626
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.59426171,
-              "y": 0.3599878
+              "x": 0.54573798,
+              "y": 0.42042282
             },
-            "confidence": 0.58897758
+            "confidence": 0.85165644
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.46186429,
-              "y": 0.37282109
+              "x": 0.49302739,
+              "y": 0.43011084
             },
-            "confidence": 0.84897602
+            "confidence": 0.66716146
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.65203506,
-              "y": 0.54821002
+              "x": 0.55482596,
+              "y": 0.50761485
             },
-            "confidence": 0.87688822
+            "confidence": 0.84547025
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.42816314,
-              "y": 0.59526551
+              "x": 0.4693985,
+              "y": 0.50115615
             },
-            "confidence": 0.89115375
+            "confidence": 0.76376337
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.6111123,
-              "y": 0.36426553
+              "x": 0.52392679,
+              "y": 0.44302818
             },
-            "confidence": 0.82055712
+            "confidence": 0.66509384
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.48834378,
-              "y": 0.43270999
+              "x": 0.48575696,
+              "y": 0.44625753
             },
-            "confidence": 0.66948867
+            "confidence": 0.59732294
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.5894472,
-              "y": 0.80059874
+              "x": 0.54028517,
+              "y": 0.62064153
             },
-            "confidence": 0.52543372
+            "confidence": 0.75378466
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.49075106,
-              "y": 0.80915439
+              "x": 0.50393301,
+              "y": 0.61741215
             },
-            "confidence": 0.56347531
+            "confidence": 0.73717207
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.53483236,
+              "y": 0.77564949
+            },
+            "confidence": 0.82823378
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.49302739,
+              "y": 0.73689753
+            },
+            "confidence": 0.68082422
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.55482596,
+              "y": 0.92742836
+            },
+            "confidence": 0.84299314
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.50575066,
+              "y": 0.83377773
+            },
+            "confidence": 0.82524914
           } ]
         }, {
           "normalized_bounding_box": {
-            "left": 0.39633879,
-            "top": 0.07034342,
-            "right": 0.66925883,
-            "bottom": 0.97839886
+            "left": 0.45904985,
+            "top": 0.2933023,
+            "right": 0.57227743,
+            "bottom": 0.98309493
           },
           "time_offset": {
             "nanos": 400400000
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.0012167656,
+            "confidence": 0.00011614001,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.014139971,
+            "confidence": 0.01690043,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.016222751,
+            "confidence": 0.0012702763,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.863114,
+            "confidence": 0.081619211,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00016800551,
+            "confidence": 0.010747245,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 3.4538764e-06,
+            "confidence": 0.060172964,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.012681542,
+            "confidence": 0.017897863,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00076805172,
+            "confidence": 0.00044145278,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.93743491,
+            "confidence": 0.29112524,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0043172641,
+            "confidence": 0.53029448,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0018194248,
+            "confidence": 0.00051283551,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0077029723,
+            "confidence": 0.00077559316,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.53298777,
+            "confidence": 0.94205981,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 3.6377889e-05,
+            "confidence": 0.00065079157,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 7.1227551e-05,
+            "confidence": 5.2817418e-06,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.044186544,
+            "confidence": 0.0036605464,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.034307852,
+            "confidence": 0.0093111414,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0073793484,
+            "confidence": 0.86023748,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0006913559,
+            "confidence": 0.026970534,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0042310106,
+            "confidence": 0.001305856,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.13001961,
+            "confidence": 0.85655725,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.30861184,
+            "confidence": 0.013537729,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0011347863,
+            "confidence": 0.00037727592,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0025326717,
+            "confidence": 0.0022198632,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 8.2607454e-07,
+            "confidence": 0.0085630836,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00017563386,
+            "confidence": 3.7750601e-06,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.14783163,
+            "confidence": 0.016429128,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.7820406,
+            "confidence": 0.005721109,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.0080895172,
+            "confidence": 0.0054890923,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.58293343,
+            "confidence": 0.019584382,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.0014304168,
+            "confidence": 0.00019366757,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.67466235,
+            "confidence": 0.9845832,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.57873291,
-              "y": 0.25812438
+              "x": 0.50054163,
+              "y": 0.37986523
             },
-            "confidence": 0.97397149
+            "confidence": 0.94943094
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.58838743,
-              "y": 0.22381122
+              "x": 0.50786531,
+              "y": 0.36685333
             },
-            "confidence": 0.97944367
+            "confidence": 0.99461854
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.56183755,
-              "y": 0.22381122
+              "x": 0.49504891,
+              "y": 0.36685333
             },
-            "confidence": 1.0055109
+            "confidence": 0.9566465
           }, {
             "name": "left_ear",
             "point": {
-              "x": 0.59804189,
-              "y": 0.22381122
+              "x": 0.52434355,
+              "y": 0.36685333
             },
-            "confidence": 0.015572887
+            "confidence": 0.91475475
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.51597875,
-              "y": 0.22381122
+              "x": 0.48955613,
+              "y": 0.37010628
             },
-            "confidence": 0.88906223
+            "confidence": 0.14195892
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.59321469,
-              "y": 0.35248551
+              "x": 0.54082167,
+              "y": 0.42215398
             },
-            "confidence": 0.55528617
+            "confidence": 0.84600341
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.47011992,
-              "y": 0.35677472
+              "x": 0.48955613,
+              "y": 0.42865995
             },
-            "confidence": 0.82357049
+            "confidence": 0.68025994
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.64631432,
-              "y": 0.54978609
+              "x": 0.55180728,
+              "y": 0.50998443
             },
-            "confidence": 0.84271276
+            "confidence": 0.80947816
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.4097794,
-              "y": 0.56265354
+              "x": 0.46758515,
+              "y": 0.49697256
             },
-            "confidence": 0.88742518
+            "confidence": 0.75360572
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.62459171,
-              "y": 0.37822038
+              "x": 0.51518893,
+              "y": 0.4514308
             },
-            "confidence": 0.7912643
+            "confidence": 0.63547379
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.4966698,
-              "y": 0.44255751
+              "x": 0.48040158,
+              "y": 0.43516591
             },
-            "confidence": 0.7758975
+            "confidence": 0.62324047
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.57873291,
-              "y": 0.7942673
+              "x": 0.53715998,
+              "y": 0.61733288
             },
-            "confidence": 0.45069146
+            "confidence": 0.7654947
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.49425614,
-              "y": 0.8028456
+              "x": 0.5023725,
+              "y": 0.61407983
             },
-            "confidence": 0.47805136
+            "confidence": 0.72128642
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.53532904,
+              "y": 0.77347589
+            },
+            "confidence": 0.85203135
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.49138704,
+              "y": 0.73118716
+            },
+            "confidence": 0.65426195
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.5554691,
+              "y": 0.92636597
+            },
+            "confidence": 0.84248877
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.50054163,
+              "y": 0.83202964
+            },
+            "confidence": 0.74175167
           } ]
         }, {
           "normalized_bounding_box": {
-            "left": 0.41854563,
-            "top": 0.078110449,
-            "right": 0.65520161,
-            "bottom": 0.97624195
+            "left": 0.45445636,
+            "top": 0.29321176,
+            "right": 0.571311,
+            "bottom": 0.98344874
           },
           "time_offset": {
             "nanos": 500500000
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.00093460007,
+            "confidence": 0.00014838485,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.011945689,
+            "confidence": 0.010882901,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.07255505,
+            "confidence": 0.00098648667,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.72930145,
+            "confidence": 0.10940837,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00057459885,
+            "confidence": 0.014126586,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 1.6743023e-05,
+            "confidence": 0.039362617,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.018105594,
+            "confidence": 0.011831226,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0021406107,
+            "confidence": 0.00023126761,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.88349295,
+            "confidence": 0.30726528,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0054209298,
+            "confidence": 0.48162293,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0016028367,
+            "confidence": 0.0006196489,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.01865037,
+            "confidence": 0.00057241193,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.51471853,
+            "confidence": 0.94975728,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 5.5713481e-05,
+            "confidence": 0.00032379062,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 7.4248295e-05,
+            "confidence": 7.0297115e-06,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.1264478,
+            "confidence": 0.0024267703,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.038440846,
+            "confidence": 0.0091174925,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.010804392,
+            "confidence": 0.85132307,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0011683491,
+            "confidence": 0.034130037,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0045587593,
+            "confidence": 0.0013869883,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.29751861,
+            "confidence": 0.8411414,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.31572026,
+            "confidence": 0.014783901,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0030118804,
+            "confidence": 0.00018903594,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.009138939,
+            "confidence": 0.0014058942,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 4.6171695e-06,
+            "confidence": 0.0076453681,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00025938012,
+            "confidence": 4.1643343e-06,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.10171777,
+            "confidence": 0.025938656,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.55658948,
+            "confidence": 0.008152836,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.023894506,
+            "confidence": 0.0027907232,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.45666212,
+            "confidence": 0.023483619,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.0058016456,
+            "confidence": 0.00010083833,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.72319132,
+            "confidence": 0.98620927,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.5941385,
-              "y": 0.27776444
+              "x": 0.49332762,
+              "y": 0.38084042
             },
-            "confidence": 0.97027963
+            "confidence": 0.96760178
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.60129136,
-              "y": 0.25234246
+              "x": 0.50248241,
+              "y": 0.36782834
             },
-            "confidence": 0.923603
+            "confidence": 1.0032716
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.57983285,
-              "y": 0.25234246
+              "x": 0.48783478,
+              "y": 0.36782834
             },
-            "confidence": 0.98986995
+            "confidence": 0.97692257
+          }, {
+            "name": "left_ear",
+            "point": {
+              "x": 0.51896083,
+              "y": 0.36782834
+            },
+            "confidence": 0.94113928
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.52976298,
-              "y": 0.23963146
+              "x": 0.48417288,
+              "y": 0.37108138
             },
-            "confidence": 0.9042002
+            "confidence": 0.089516662
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.5917542,
-              "y": 0.37945247
+              "x": 0.53543937,
+              "y": 0.42638296
             },
-            "confidence": 0.30057144
+            "confidence": 0.86943501
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.49399883,
-              "y": 0.34979346
+              "x": 0.48600382,
+              "y": 0.42638296
             },
-            "confidence": 0.72584093
+            "confidence": 0.74479139
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.6203655,
-              "y": 0.56588048
+              "x": 0.54825592,
+              "y": 0.51746792
             },
-            "confidence": 0.74079949
+            "confidence": 0.81110394
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.45346609,
-              "y": 0.48114052
+              "x": 0.46220151,
+              "y": 0.49144363
             },
-            "confidence": 0.69851255
+            "confidence": 0.75803411
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.6299026,
-              "y": 0.41334847
+              "x": 0.51346803,
+              "y": 0.47517848
             },
-            "confidence": 0.61682749
+            "confidence": 0.69964612
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.53214729,
-              "y": 0.41334847
+              "x": 0.47501811,
+              "y": 0.43288904
             },
-            "confidence": 0.69547212
+            "confidence": 0.61653376
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.56791145,
-              "y": 0.79891545
+              "x": 0.5317775,
+              "y": 0.618312
             },
-            "confidence": 0.45293221
+            "confidence": 0.75103807
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.49161452,
-              "y": 0.80738944
+              "x": 0.49882045,
+              "y": 0.61505896
             },
-            "confidence": 0.43031377
+            "confidence": 0.77074289
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.53360838,
+              "y": 0.77445769
+            },
+            "confidence": 0.72609782
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.48966569,
+              "y": 0.73216826
+            },
+            "confidence": 0.63784587
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.55374879,
+              "y": 0.92735046
+            },
+            "confidence": 0.81583023
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49698949,
+              "y": 0.83626539
+            },
+            "confidence": 0.81286049
           } ]
         }, {
           "normalized_bounding_box": {
-            "left": 0.43070269,
-            "top": 0.09303645,
-            "right": 0.65142602,
-            "bottom": 0.97506046
+            "left": 0.44853288,
+            "top": 0.29715109,
+            "right": 0.56998688,
+            "bottom": 0.98360819
           },
           "time_offset": {
             "nanos": 600600000
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.00097131613,
+            "confidence": 0.00013759571,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0086584678,
+            "confidence": 0.0064300257,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.069896974,
+            "confidence": 0.0012211619,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.70992845,
+            "confidence": 0.14455216,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0010769395,
+            "confidence": 0.015261413,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 3.9372688e-05,
+            "confidence": 0.021626905,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.017313335,
+            "confidence": 0.013195175,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0032149248,
+            "confidence": 0.00018113547,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.8780033,
+            "confidence": 0.37585086,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0044486998,
+            "confidence": 0.45446506,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0016460293,
+            "confidence": 0.00071262894,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.021349162,
+            "confidence": 0.00047669408,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.5892725,
+            "confidence": 0.94514418,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 5.616284e-05,
+            "confidence": 0.00029996128,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 7.9885707e-05,
+            "confidence": 8.4583671e-06,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.12347069,
+            "confidence": 0.002522856,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.038191523,
+            "confidence": 0.0096221939,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.019282669,
+            "confidence": 0.79814392,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0019975172,
+            "confidence": 0.032529145,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0040574698,
+            "confidence": 0.0016123072,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.34328556,
+            "confidence": 0.85404068,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.25884652,
+            "confidence": 0.017403342,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0052289069,
+            "confidence": 0.00014632677,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.017696789,
+            "confidence": 0.00090795237,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 1.7474151e-05,
+            "confidence": 0.0028871314,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00027193868,
+            "confidence": 3.9274255e-06,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.085323639,
+            "confidence": 0.02692518,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.49628294,
+            "confidence": 0.0058225552,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.054214895,
+            "confidence": 0.0014432183,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.40947834,
+            "confidence": 0.025239931,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.014355243,
+            "confidence": 3.8526494e-05,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.69551075,
+            "confidence": 0.98697072,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.60051346,
-              "y": 0.29415953
+              "x": 0.48960632,
+              "y": 0.38544878
             },
-            "confidence": 0.96985245
+            "confidence": 0.97193575
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.60987443,
-              "y": 0.26504844
+              "x": 0.49688745,
+              "y": 0.36927846
             },
-            "confidence": 0.93713921
+            "confidence": 0.99904191
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.58647197,
-              "y": 0.26088968
+              "x": 0.48414555,
+              "y": 0.37251252
             },
-            "confidence": 1.0059841
+            "confidence": 0.96987426
+          }, {
+            "name": "left_ear",
+            "point": {
+              "x": 0.5132699,
+              "y": 0.36927846
+            },
+            "confidence": 0.9057011
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.53966737,
-              "y": 0.2484135
+              "x": 0.47868472,
+              "y": 0.37251252
             },
-            "confidence": 0.86143458
+            "confidence": 0.17876661
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.595833,
-              "y": 0.38565168
+              "x": 0.53147256,
+              "y": 0.42749175
             },
-            "confidence": 0.37085101
+            "confidence": 0.85331929
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.49988332,
-              "y": 0.35654053
+              "x": 0.47868472,
+              "y": 0.42749175
             },
-            "confidence": 0.7273016
+            "confidence": 0.70275795
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.61689508,
-              "y": 0.58527088
+              "x": 0.54785502,
+              "y": 0.51804578
             },
-            "confidence": 0.75990021
+            "confidence": 0.83021748
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.47414073,
-              "y": 0.50625491
+              "x": 0.45502114,
+              "y": 0.49217322
             },
-            "confidence": 0.75083911
+            "confidence": 0.80751467
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.62625605,
-              "y": 0.43971524
+              "x": 0.51509017,
+              "y": 0.48893908
             },
-            "confidence": 0.59598893
+            "confidence": 0.75159109
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.53732705,
-              "y": 0.43555644
+              "x": 0.46958336,
+              "y": 0.43395993
             },
-            "confidence": 0.72065508
+            "confidence": 0.53804803
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.56775022,
-              "y": 0.801525
+              "x": 0.52419156,
+              "y": 0.62153608
             },
-            "confidence": 0.51528519
+            "confidence": 0.72687256
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.49520287,
-              "y": 0.80568367
+              "x": 0.49142662,
+              "y": 0.6150679
             },
-            "confidence": 0.46825546
+            "confidence": 0.74889934
           }, {
             "name": "left_knee",
             "point": {
-              "x": 0.63093656,
-              "y": 0.9928267
+              "x": 0.52965236,
+              "y": 0.77353746
             },
-            "confidence": 0.018893372
+            "confidence": 0.74018198
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.48414555,
+              "y": 0.73472857
+            },
+            "confidence": 0.67691535
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.55331588,
+              "y": 0.92553878
+            },
+            "confidence": 0.82212698
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49506718,
+              "y": 0.83821887
+            },
+            "confidence": 0.79176939
           } ]
         }, {
           "normalized_bounding_box": {
-            "left": 0.42401794,
-            "top": 0.090815231,
-            "right": 0.66393858,
-            "bottom": 0.9808293
+            "left": 0.44472542,
+            "top": 0.29844782,
+            "right": 0.56656516,
+            "bottom": 0.98458791
           },
           "time_offset": {
             "nanos": 700700000
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.0014319192,
+            "confidence": 7.234807e-05,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0090254284,
+            "confidence": 0.008632591,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.017169172,
+            "confidence": 0.001348194,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.85717136,
+            "confidence": 0.10524884,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00023230549,
+            "confidence": 0.010621489,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 4.4945596e-06,
+            "confidence": 0.038062468,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.013493558,
+            "confidence": 0.014018931,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0012986618,
+            "confidence": 0.0002780848,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.9378978,
+            "confidence": 0.34640011,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0040804828,
+            "confidence": 0.51377273,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.001343069,
+            "confidence": 0.00052951038,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0092673106,
+            "confidence": 0.0005534009,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.53338104,
+            "confidence": 0.94572604,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 4.3910626e-05,
+            "confidence": 0.00050010561,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 6.7486304e-05,
+            "confidence": 3.0309252e-06,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.043211035,
+            "confidence": 0.0036531263,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.03955505,
+            "confidence": 0.0069056652,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0076141469,
+            "confidence": 0.82048213,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00089290325,
+            "confidence": 0.028104743,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0040099011,
+            "confidence": 0.00088428694,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.12151363,
+            "confidence": 0.88479334,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.30683431,
+            "confidence": 0.015017581,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0020353494,
+            "confidence": 0.00020932873,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0032216278,
+            "confidence": 0.0014486884,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 1.6085791e-06,
+            "confidence": 0.005283732,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00031116157,
+            "confidence": 2.7170695e-06,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.11096829,
+            "confidence": 0.013026427,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.81404138,
+            "confidence": 0.0041802987,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.0091175037,
+            "confidence": 0.0029913473,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.55156976,
+            "confidence": 0.026827514,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.002603621,
+            "confidence": 0.00010883386,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.69864893,
+            "confidence": 0.98479378,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.60184073,
-              "y": 0.28721118
+              "x": 0.48588896,
+              "y": 0.38157356
             },
-            "confidence": 0.9723224
+            "confidence": 0.97109002
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.61131322,
-              "y": 0.25354466
+              "x": 0.49317789,
+              "y": 0.36862341
             },
-            "confidence": 0.95503247
+            "confidence": 0.98753852
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.58526379,
-              "y": 0.25354466
+              "x": 0.4804222,
+              "y": 0.36862341
             },
-            "confidence": 0.99947214
+            "confidence": 0.95637286
+          }, {
+            "name": "left_ear",
+            "point": {
+              "x": 0.50775582,
+              "y": 0.36538583
+            },
+            "confidence": 0.95246553
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.54026908,
-              "y": 0.24512804
+              "x": 0.47495556,
+              "y": 0.36862341
             },
-            "confidence": 0.90929717
+            "confidence": 0.17152157
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.59947264,
-              "y": 0.37979415
+              "x": 0.52597815,
+              "y": 0.4236618
             },
-            "confidence": 0.65364468
+            "confidence": 0.81499302
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.49053824,
-              "y": 0.37558582
+              "x": 0.47495556,
+              "y": 0.42042431
             },
-            "confidence": 0.79735625
+            "confidence": 0.73944533
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.63973081,
-              "y": 0.57337672
+              "x": 0.54420048,
+              "y": 0.51107591
             },
-            "confidence": 0.87129009
+            "confidence": 0.84708399
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.44554362,
-              "y": 0.57337672
+              "x": 0.44944429,
+              "y": 0.48841304
             },
-            "confidence": 0.88863963
+            "confidence": 0.83488262
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.63736272,
-              "y": 0.41766897
+              "x": 0.51140022,
+              "y": 0.46898764
             },
-            "confidence": 0.77038777
+            "confidence": 0.65551317
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.51421964,
-              "y": 0.48500201
+              "x": 0.46219993,
+              "y": 0.43013695
             },
-            "confidence": 0.75173473
+            "confidence": 0.6621238
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.57579118,
-              "y": 0.77958411
+              "x": 0.52051139,
+              "y": 0.61467773
             },
-            "confidence": 0.61006057
+            "confidence": 0.73036981
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.49764264,
-              "y": 0.7837925
+              "x": 0.48588896,
+              "y": 0.61144012
             },
-            "confidence": 0.51904643
+            "confidence": 0.74495351
           }, {
             "name": "left_knee",
             "point": {
-              "x": 0.62315392,
-              "y": 0.98579168
+              "x": 0.52415591,
+              "y": 0.76036781
             },
-            "confidence": 0.064954802
+            "confidence": 0.78801322
           }, {
             "name": "right_knee",
             "point": {
-              "x": 0.52606028,
-              "y": 0.98999995
+              "x": 0.4804222,
+              "y": 0.73770487
             },
-            "confidence": 0.046467736
+            "confidence": 0.61704898
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.54966718,
+              "y": 0.9190082
+            },
+            "confidence": 0.79697978
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49500012,
+              "y": 0.8348316
+            },
+            "confidence": 0.79496241
           } ]
         }, {
           "normalized_bounding_box": {
-            "left": 0.42114893,
-            "top": 0.095408797,
-            "right": 0.67793357,
-            "bottom": 0.98608845
+            "left": 0.44131356,
+            "top": 0.29517275,
+            "right": 0.56032264,
+            "bottom": 0.98510361
           },
           "time_offset": {
             "nanos": 800800000
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.0013581123,
+            "confidence": 6.9937458e-05,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.012324023,
+            "confidence": 0.014007105,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.007853183,
+            "confidence": 0.00066315319,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.90892118,
+            "confidence": 0.042878263,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 7.8630459e-05,
+            "confidence": 0.0063016238,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 3.0983591e-07,
+            "confidence": 0.086772449,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.012740673,
+            "confidence": 0.016498398,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00049339095,
+            "confidence": 0.00041167159,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.94983786,
+            "confidence": 0.24502927,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0022059162,
+            "confidence": 0.61817098,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0012926558,
+            "confidence": 0.00054857379,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0035061222,
+            "confidence": 0.00081451802,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.36628681,
+            "confidence": 0.94968975,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 2.8642335e-05,
+            "confidence": 0.00092982088,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 6.7807814e-05,
+            "confidence": 2.1572666e-06,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.026101992,
+            "confidence": 0.0030521096,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.044653401,
+            "confidence": 0.0099643199,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0054320693,
+            "confidence": 0.89006793,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00037186823,
+            "confidence": 0.018306298,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0066720354,
+            "confidence": 0.00087634701,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.15159133,
+            "confidence": 0.83795357,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.44669381,
+            "confidence": 0.0080328593,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00065073767,
+            "confidence": 0.00031541946,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00089935702,
+            "confidence": 0.0016144739,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 6.5134572e-08,
+            "confidence": 0.0074467547,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0002007584,
+            "confidence": 2.6960461e-06,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.16733748,
+            "confidence": 0.026586929,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.73502517,
+            "confidence": 0.0076388279,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.0034108297,
+            "confidence": 0.0042482745,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.6137079,
+            "confidence": 0.018533152,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.00042338829,
+            "confidence": 0.00022435395,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.66856509,
+            "confidence": 0.98584265,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.5928185,
-              "y": 0.28691232
+              "x": 0.48455459,
+              "y": 0.38061264
             },
-            "confidence": 0.98461401
+            "confidence": 0.90438938
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.60465181,
-              "y": 0.25326642
+              "x": 0.49004841,
+              "y": 0.36434454
             },
-            "confidence": 0.98133612
+            "confidence": 0.96279651
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.57625163,
-              "y": 0.25326642
+              "x": 0.47722945,
+              "y": 0.36759818
             },
-            "confidence": 0.99517745
+            "confidence": 0.95407933
           }, {
             "name": "left_ear",
             "point": {
-              "x": 0.61411864,
-              "y": 0.25326642
+              "x": 0.50652993,
+              "y": 0.36434454
             },
-            "confidence": 0.016296282
+            "confidence": 0.88324189
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.53128451,
-              "y": 0.24906068
+              "x": 0.47173563,
+              "y": 0.36759818
             },
-            "confidence": 0.92696476
+            "confidence": 0.21202658
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.60701853,
-              "y": 0.37102705
+              "x": 0.52301139,
+              "y": 0.41965616
             },
-            "confidence": 0.54834604
+            "confidence": 0.83739805
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.4863176,
-              "y": 0.37943852
+              "x": 0.47173563,
+              "y": 0.41965616
             },
-            "confidence": 0.77395052
+            "confidence": 0.67716146
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.66145235,
-              "y": 0.56449097
+              "x": 0.53399909,
+              "y": 0.50425029
             },
-            "confidence": 0.89473385
+            "confidence": 0.83152407
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.4389838,
-              "y": 0.60234255
+              "x": 0.44792899,
+              "y": 0.48472866
             },
-            "confidence": 0.86354458
+            "confidence": 0.84544086
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.64251882,
-              "y": 0.39626145
+              "x": 0.50286734,
+              "y": 0.43917787
             },
-            "confidence": 0.82322955
+            "confidence": 0.71816909
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.4910509,
-              "y": 0.49719912
+              "x": 0.46074796,
+              "y": 0.42616335
             },
-            "confidence": 0.77135527
+            "confidence": 0.54157352
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.58571839,
-              "y": 0.79160064
+              "x": 0.51934892,
+              "y": 0.61162001
             },
-            "confidence": 0.57572484
+            "confidence": 0.6942808
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.49578431,
-              "y": 0.79580641
+              "x": 0.48455459,
+              "y": 0.60836631
             },
-            "confidence": 0.51033974
+            "confidence": 0.75657386
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.52118009,
+              "y": 0.7645402
+            },
+            "confidence": 0.76509452
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.4827233,
+              "y": 0.73851115
+            },
+            "confidence": 0.68650597
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.54498678,
+              "y": 0.92071426
+            },
+            "confidence": 0.77686256
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49554223,
+              "y": 0.83611995
+            },
+            "confidence": 0.78967428
           } ]
         }, {
           "normalized_bounding_box": {
-            "left": 0.42158449,
-            "top": 0.10462518,
-            "right": 0.68551379,
-            "bottom": 0.98857456
+            "left": 0.43806076,
+            "top": 0.2967861,
+            "right": 0.55897939,
+            "bottom": 0.98449028
           },
           "time_offset": {
             "nanos": 900900000
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.0011106808,
+            "confidence": 7.9137986e-05,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.01164346,
+            "confidence": 0.02416813,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.023346806,
+            "confidence": 0.00087119592,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.85855681,
+            "confidence": 0.043635022,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00015270564,
+            "confidence": 0.0064989128,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 8.5081524e-07,
+            "confidence": 0.091791883,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.013405923,
+            "confidence": 0.015816206,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00059685629,
+            "confidence": 0.00041817714,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.92929029,
+            "confidence": 0.21034369,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0028215738,
+            "confidence": 0.60313356,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.001597477,
+            "confidence": 0.00047667063,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0048456499,
+            "confidence": 0.0008025589,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.3947731,
+            "confidence": 0.95212221,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 3.0171745e-05,
+            "confidence": 0.00062996679,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 4.7980393e-05,
+            "confidence": 1.5608019e-06,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.05802675,
+            "confidence": 0.0031242108,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.038759947,
+            "confidence": 0.010195605,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0075018085,
+            "confidence": 0.91155469,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00060014619,
+            "confidence": 0.019645894,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0062570642,
+            "confidence": 0.00098244753,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.13504796,
+            "confidence": 0.81727934,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.42066824,
+            "confidence": 0.0082893707,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00073533441,
+            "confidence": 0.00032593342,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0019880808,
+            "confidence": 0.0018957241,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 1.7827195e-07,
+            "confidence": 0.010143454,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0001260031,
+            "confidence": 3.0418605e-06,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.1669707,
+            "confidence": 0.024665818,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.76316077,
+            "confidence": 0.010442351,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.006282697,
+            "confidence": 0.0048256037,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.63678986,
+            "confidence": 0.016368669,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.00048167357,
+            "confidence": 0.00020822656,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.64221156,
+            "confidence": 0.98698997,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.58446383,
-              "y": 0.29037434
+              "x": 0.4825266,
+              "y": 0.38365635
             },
-            "confidence": 0.97284877
+            "confidence": 0.96455908
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.59855044,
-              "y": 0.2611694
+              "x": 0.48982087,
+              "y": 0.37069672
             },
-            "confidence": 0.99064165
+            "confidence": 0.96685863
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.56802934,
-              "y": 0.25699729
+              "x": 0.47705594,
+              "y": 0.37069672
             },
-            "confidence": 0.99945676
+            "confidence": 0.95655769
           }, {
             "name": "left_ear",
             "point": {
-              "x": 0.61028939,
-              "y": 0.25699729
+              "x": 0.50440925,
+              "y": 0.36745682
             },
-            "confidence": 0.052594408
+            "confidence": 0.96205938
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.52811712,
-              "y": 0.25282511
+              "x": 0.4697617,
+              "y": 0.37069672
             },
-            "confidence": 0.92003667
+            "confidence": 0.24469128
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.61028939,
-              "y": 0.37381697
+              "x": 0.52082127,
+              "y": 0.42253524
             },
-            "confidence": 0.58449936
+            "confidence": 0.84493452
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.48350939,
-              "y": 0.38633344
+              "x": 0.4697617,
+              "y": 0.4257752
             },
-            "confidence": 0.75954372
+            "confidence": 0.69539559
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.66428816,
-              "y": 0.56990737
+              "x": 0.52993906,
+              "y": 0.51001281
             },
-            "confidence": 0.8895449
+            "confidence": 0.82743615
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.4365539,
-              "y": 0.61162859
+              "x": 0.44970256,
+              "y": 0.49057338
             },
-            "confidence": 0.88677049
+            "confidence": 0.86183512
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.6361149,
-              "y": 0.40302193
+              "x": 0.50076216,
+              "y": 0.44845459
             },
-            "confidence": 0.76323062
+            "confidence": 0.67354167
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.48116162,
-              "y": 0.49063677
+              "x": 0.46064392,
+              "y": 0.432255
             },
-            "confidence": 0.77732927
+            "confidence": 0.59521401
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.59620267,
-              "y": 0.7993747
+              "x": 0.51717418,
+              "y": 0.61692977
             },
-            "confidence": 0.56764865
+            "confidence": 0.74058723
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.50229156,
-              "y": 0.80771893
+              "x": 0.48435014,
+              "y": 0.6136899
             },
-            "confidence": 0.4937886
+            "confidence": 0.76760632
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.52082127,
+              "y": 0.7724455
+            },
+            "confidence": 0.76330858
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.47887951,
+              "y": 0.74004638
+            },
+            "confidence": 0.67701143
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.54452753,
+              "y": 0.92148131
+            },
+            "confidence": 0.81223536
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49529153,
+              "y": 0.83400381
+            },
+            "confidence": 0.72860336
           } ]
         }, {
           "normalized_bounding_box": {
-            "left": 0.42424881,
-            "top": 0.11095596,
-            "right": 0.68209565,
-            "bottom": 0.99009842
+            "left": 0.43618068,
+            "top": 0.30226824,
+            "right": 0.55797559,
+            "bottom": 0.98342252
           },
           "time_offset": {
             "seconds": 1,
@@ -2344,231 +2624,259 @@
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.0013615092,
+            "confidence": 8.8863388e-05,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.010215433,
+            "confidence": 0.010075746,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.027251383,
+            "confidence": 0.001137987,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.83624887,
+            "confidence": 0.089868858,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00023747876,
+            "confidence": 0.010986526,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 1.9260667e-06,
+            "confidence": 0.038099747,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.019066533,
+            "confidence": 0.017363641,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0011053169,
+            "confidence": 0.00030841838,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.92637128,
+            "confidence": 0.30980709,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0041360194,
+            "confidence": 0.54030365,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0020851241,
+            "confidence": 0.00059058703,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0060590366,
+            "confidence": 0.0006051691,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.44754088,
+            "confidence": 0.94016373,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 5.4301145e-05,
+            "confidence": 0.00061051786,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 6.4291708e-05,
+            "confidence": 3.3705223e-06,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.062364247,
+            "confidence": 0.0031551234,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.043655936,
+            "confidence": 0.0089881346,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.007816988,
+            "confidence": 0.84785503,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.001017432,
+            "confidence": 0.030646531,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.006215421,
+            "confidence": 0.0011503579,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.1100258,
+            "confidence": 0.87379837,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.36997974,
+            "confidence": 0.016139129,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.001304109,
+            "confidence": 0.00021991346,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0031257914,
+            "confidence": 0.0012760708,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 5.1721395e-07,
+            "confidence": 0.0046095951,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00026580773,
+            "confidence": 2.56608e-06,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.15287067,
+            "confidence": 0.017060999,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.79759938,
+            "confidence": 0.0041071475,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.0085335551,
+            "confidence": 0.0028875112,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.64698201,
+            "confidence": 0.029427761,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.00089604349,
+            "confidence": 9.5384792e-05,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.6262064,
+            "confidence": 0.98456705,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.58001035,
-              "y": 0.29281712
+              "x": 0.47849807,
+              "y": 0.38969103
             },
-            "confidence": 0.97708648
+            "confidence": 0.95818961
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.59168679,
-              "y": 0.2637676
+              "x": 0.48572612,
+              "y": 0.37684906
             },
-            "confidence": 0.99759984
+            "confidence": 0.99063253
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.56132799,
-              "y": 0.25961769
+              "x": 0.47307706,
+              "y": 0.37684906
             },
-            "confidence": 0.99859703
+            "confidence": 0.96607488
           }, {
             "name": "left_ear",
             "point": {
-              "x": 0.60569847,
-              "y": 0.25961769
+              "x": 0.50198913,
+              "y": 0.37363854
             },
-            "confidence": 0.078145921
+            "confidence": 0.94981903
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.52396351,
-              "y": 0.25546774
+              "x": 0.46765605,
+              "y": 0.37684906
             },
-            "confidence": 0.95395947
+            "confidence": 0.14234124
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.61036897,
-              "y": 0.37996563
+              "x": 0.52005917,
+              "y": 0.43142754
             },
-            "confidence": 0.60871547
+            "confidence": 0.78258187
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.47959322,
-              "y": 0.38826549
+              "x": 0.46946305,
+              "y": 0.43142754
             },
-            "confidence": 0.80577755
+            "confidence": 0.68416017
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.65940994,
-              "y": 0.57916224
+              "x": 0.53451526,
+              "y": 0.52132159
             },
-            "confidence": 0.87953544
+            "confidence": 0.7200743
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.43755817,
-              "y": 0.60821176
+              "x": 0.44958597,
+              "y": 0.49563757
             },
-            "confidence": 0.91371357
+            "confidence": 0.82850868
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.63138658,
-              "y": 0.40901512
+              "x": 0.50379616,
+              "y": 0.47637451
             },
-            "confidence": 0.81673002
+            "confidence": 0.61608315
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.47725794,
-              "y": 0.48786384
+              "x": 0.45862103,
+              "y": 0.44105902
             },
-            "confidence": 0.82935917
+            "confidence": 0.54330742
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.60102785,
-              "y": 0.80325842
+              "x": 0.51825219,
+              "y": 0.62084705
             },
-            "confidence": 0.53777111
+            "confidence": 0.77161318
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.50294602,
-              "y": 0.80325842
+              "x": 0.48391914,
+              "y": 0.6176365
             },
-            "confidence": 0.5234406
+            "confidence": 0.78064632
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.51644522,
+              "y": 0.76531965
+            },
+            "confidence": 0.81321979
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.47849807,
+              "y": 0.75247759
+            },
+            "confidence": 0.58237445
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.54535735,
+              "y": 0.91942352
+            },
+            "confidence": 0.82101882
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49476108,
+              "y": 0.83595049
+            },
+            "confidence": 0.71418071
           } ]
         }, {
           "normalized_bounding_box": {
-            "left": 0.42231178,
-            "top": 0.10728686,
-            "right": 0.6806044,
-            "bottom": 0.99366307
+            "left": 0.43380415,
+            "top": 0.30262244,
+            "right": 0.5614,
+            "bottom": 0.98959196
           },
           "time_offset": {
             "seconds": 1,
@@ -2576,231 +2884,259 @@
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.0012120618,
+            "confidence": 6.0799925e-05,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0091601619,
+            "confidence": 0.0081108091,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.02189346,
+            "confidence": 0.0013422949,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.84673697,
+            "confidence": 0.09118025,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00032934325,
+            "confidence": 0.016387528,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 1.8232229e-06,
+            "confidence": 0.076811686,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.016876044,
+            "confidence": 0.016250879,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00097692548,
+            "confidence": 0.00057518273,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.92608535,
+            "confidence": 0.31986794,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00387483,
+            "confidence": 0.47646701,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0019664569,
+            "confidence": 0.00045169398,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0072275074,
+            "confidence": 0.00090321101,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.41698325,
+            "confidence": 0.94435394,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 5.3163665e-05,
+            "confidence": 0.00063833967,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 5.762677e-05,
+            "confidence": 3.0713327e-06,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.05712869,
+            "confidence": 0.0048138136,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.044569694,
+            "confidence": 0.0059604472,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.011473662,
+            "confidence": 0.838,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.001169633,
+            "confidence": 0.028837504,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0083635338,
+            "confidence": 0.0010473358,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.15727951,
+            "confidence": 0.89698142,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.3976478,
+            "confidence": 0.012495949,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0010486675,
+            "confidence": 0.0004042869,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0032980638,
+            "confidence": 0.0032755511,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 3.9904751e-07,
+            "confidence": 0.012093646,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00013837559,
+            "confidence": 4.9163723e-06,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.18848813,
+            "confidence": 0.008897244,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.7083084,
+            "confidence": 0.0033646293,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.01185763,
+            "confidence": 0.012119591,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.62175977,
+            "confidence": 0.033391144,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.00092732778,
+            "confidence": 0.00053977623,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.64637291,
+            "confidence": 0.97549081,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.57655227,
-              "y": 0.28759924
+              "x": 0.47767934,
+              "y": 0.39150578
             },
-            "confidence": 0.98702955
+            "confidence": 0.92590219
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.58834445,
-              "y": 0.25407079
+              "x": 0.48315373,
+              "y": 0.37529516
             },
-            "confidence": 1.0017626
+            "confidence": 0.94886452
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.56004333,
-              "y": 0.25407079
+              "x": 0.47038016,
+              "y": 0.37853733
             },
-            "confidence": 1.0010103
+            "confidence": 0.92703462
           }, {
             "name": "left_ear",
             "point": {
-              "x": 0.60013658,
-              "y": 0.2498797
+              "x": 0.4995769,
+              "y": 0.36881098
             },
-            "confidence": 0.078998685
+            "confidence": 0.93948787
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.51995009,
-              "y": 0.2498797
+              "x": 0.46673054,
+              "y": 0.37205312
             },
-            "confidence": 0.93601567
+            "confidence": 0.099504977
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.60721189,
-              "y": 0.37561139
+              "x": 0.51964962,
+              "y": 0.42716897
             },
-            "confidence": 0.66858679
+            "confidence": 0.71546268
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.47749844,
-              "y": 0.38818461
+              "x": 0.46855536,
+              "y": 0.4304111
             },
-            "confidence": 0.73137182
+            "confidence": 0.71281445
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.65909714,
-              "y": 0.56840008
+              "x": 0.54519689,
+              "y": 0.50497955
             },
-            "confidence": 0.88688385
+            "confidence": 0.85686064
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.43504676,
-              "y": 0.60611963
+              "x": 0.44483298,
+              "y": 0.49525332
             },
-            "confidence": 0.90985304
+            "confidence": 0.82077789
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.6284377,
-              "y": 0.40075776
+              "x": 0.5105257,
+              "y": 0.44337955
             },
-            "confidence": 0.80893803
+            "confidence": 0.62683326
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.47514001,
-              "y": 0.48038787
+              "x": 0.45395699,
+              "y": 0.44013745
             },
-            "confidence": 0.81278163
+            "confidence": 0.45325652
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.60249496,
-              "y": 0.79890823
+              "x": 0.51964962,
+              "y": 0.6184535
             },
-            "confidence": 0.47717077
+            "confidence": 0.75964773
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.50579959,
-              "y": 0.80729038
+              "x": 0.48680335,
+              "y": 0.6184535
             },
-            "confidence": 0.45785815
+            "confidence": 0.75867021
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.51235044,
+              "y": 0.76759064
+            },
+            "confidence": 0.79033643
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.47950411,
+              "y": 0.74489588
+            },
+            "confidence": 0.69733167
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.54519689,
+              "y": 0.92321199
+            },
+            "confidence": 0.82064587
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49410248,
+              "y": 0.83567488
+            },
+            "confidence": 0.7249558
           } ]
         }, {
           "normalized_bounding_box": {
-            "left": 0.41986388,
-            "top": 0.10088872,
-            "right": 0.67771673,
-            "bottom": 0.99465483
+            "left": 0.43242234,
+            "top": 0.31437624,
+            "right": 0.5633651,
+            "bottom": 0.98911059
           },
           "time_offset": {
             "seconds": 1,
@@ -2808,231 +3144,259 @@
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.0014160057,
+            "confidence": 7.4571042e-05,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.011173197,
+            "confidence": 0.0056910804,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.018934119,
+            "confidence": 0.00073873991,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.86441278,
+            "confidence": 0.080834314,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00018132897,
+            "confidence": 0.025500095,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 1.0782362e-06,
+            "confidence": 0.11290554,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.017098231,
+            "confidence": 0.018994005,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00069242099,
+            "confidence": 0.00065376068,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.93480843,
+            "confidence": 0.20068896,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0032721234,
+            "confidence": 0.37484643,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0020068346,
+            "confidence": 0.00069532939,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0070484621,
+            "confidence": 0.0006564096,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.35699457,
+            "confidence": 0.9414109,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 4.8375219e-05,
+            "confidence": 0.0008118244,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 7.3302152e-05,
+            "confidence": 4.3029418e-06,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.048768975,
+            "confidence": 0.0019593693,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.046266146,
+            "confidence": 0.0089444323,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0073407707,
+            "confidence": 0.91634804,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00081025343,
+            "confidence": 0.072344519,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0070250584,
+            "confidence": 0.0016361903,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.13777812,
+            "confidence": 0.82072788,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.45056868,
+            "confidence": 0.011428592,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00082401332,
+            "confidence": 0.00043227209,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0020687066,
+            "confidence": 0.0018614036,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 2.0184297e-07,
+            "confidence": 0.024994511,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00018546937,
+            "confidence": 3.3241031e-05,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.20403565,
+            "confidence": 0.0086367745,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.72117054,
+            "confidence": 0.028608277,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.0073892842,
+            "confidence": 0.0049119494,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.64395988,
+            "confidence": 0.019525329,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.00061089959,
+            "confidence": 0.00031115557,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.62935585,
+            "confidence": 0.98311794,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.56967682,
-              "y": 0.27715459
+              "x": 0.47415242,
+              "y": 0.40271881
             },
-            "confidence": 0.98025042
+            "confidence": 0.75609994
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.581563,
-              "y": 0.24335881
+              "x": 0.47951946,
+              "y": 0.39318308
             },
-            "confidence": 1.0083293
+            "confidence": 0.68965507
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.550659,
-              "y": 0.24335881
+              "x": 0.47057432,
+              "y": 0.39318308
             },
-            "confidence": 0.99132538
+            "confidence": 0.7033726
           }, {
             "name": "left_ear",
             "point": {
-              "x": 0.59582633,
-              "y": 0.23913436
+              "x": 0.49919882,
+              "y": 0.38682604
             },
-            "confidence": 0.13969627
+            "confidence": 0.50120485
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.51500058,
-              "y": 0.23913436
+              "x": 0.46699634,
+              "y": 0.39636171
             },
-            "confidence": 0.94025999
+            "confidence": 0.043762356
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.60295796,
-              "y": 0.37009293
+              "x": 0.5153001,
+              "y": 0.43132588
             },
-            "confidence": 0.66408944
+            "confidence": 0.52519011
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.47458771,
-              "y": 0.37854192
+              "x": 0.47236338,
+              "y": 0.44721863
             },
-            "confidence": 0.73044837
+            "confidence": 0.51974058
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.6576342,
-              "y": 0.55596972
+              "x": 0.52603424,
+              "y": 0.44086155
             },
-            "confidence": 0.94190133
+            "confidence": 0.58551669
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.43179762,
-              "y": 0.60243887
+              "x": 0.44552797,
+              "y": 0.4917185
             },
-            "confidence": 0.88663423
+            "confidence": 0.83568692
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.62673026,
-              "y": 0.39121529
+              "x": 0.50277686,
+              "y": 0.39636171
             },
-            "confidence": 0.81691617
+            "confidence": 0.64841568
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.47221047,
-              "y": 0.47570473
+              "x": 0.45089507,
+              "y": 0.44404009
             },
-            "confidence": 0.82060182
+            "confidence": 0.45253468
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.5982036,
-              "y": 0.78831553
+              "x": 0.52603424,
+              "y": 0.62203944
             },
-            "confidence": 0.47569495
+            "confidence": 0.69428438
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.5031144,
-              "y": 0.79676449
+              "x": 0.49562073,
+              "y": 0.62521797
             },
-            "confidence": 0.46094501
+            "confidence": 0.67899132
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.5153001,
+              "y": 0.76825327
+            },
+            "confidence": 0.78308541
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.48130852,
+              "y": 0.74282473
+            },
+            "confidence": 0.61193377
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.54750258,
+              "y": 0.93671697
+            },
+            "confidence": 0.81423825
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49383172,
+              "y": 0.83500296
+            },
+            "confidence": 0.7591753
           } ]
         }, {
           "normalized_bounding_box": {
-            "left": 0.41232905,
-            "top": 0.081938468,
-            "right": 0.67348433,
-            "bottom": 0.99074334
+            "left": 0.43474054,
+            "top": 0.32936838,
+            "right": 0.56453264,
+            "bottom": 0.98906875
           },
           "time_offset": {
             "seconds": 1,
@@ -3040,231 +3404,259 @@
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.0014181675,
+            "confidence": 0.00020139603,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.009081847,
+            "confidence": 0.0090145776,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.023739917,
+            "confidence": 0.00057480723,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.84051478,
+            "confidence": 0.085450351,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00036315137,
+            "confidence": 0.020018764,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 2.5832048e-06,
+            "confidence": 0.11019223,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.016223256,
+            "confidence": 0.013823031,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0012153051,
+            "confidence": 0.00050000096,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.92448217,
+            "confidence": 0.20338361,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0031325771,
+            "confidence": 0.33909109,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0024154412,
+            "confidence": 0.0010745024,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.010909135,
+            "confidence": 0.0011770857,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.49136627,
+            "confidence": 0.94675398,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 4.3684548e-05,
+            "confidence": 0.00037722601,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 6.8708272e-05,
+            "confidence": 2.1238193e-05,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.058802336,
+            "confidence": 0.0017728112,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.041306168,
+            "confidence": 0.014129769,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.012151285,
+            "confidence": 0.91534913,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0011635867,
+            "confidence": 0.089820795,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0056826975,
+            "confidence": 0.0036967383,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.10441733,
+            "confidence": 0.58166385,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.33711568,
+            "confidence": 0.013759578,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0017174379,
+            "confidence": 0.00028976431,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.005309361,
+            "confidence": 0.0021147034,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 7.8239668e-07,
+            "confidence": 0.038323,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00010889275,
+            "confidence": 0.00024578749,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.1983289,
+            "confidence": 0.011050735,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.77628374,
+            "confidence": 0.25221911,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.020572433,
+            "confidence": 0.0059970212,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.57583988,
+            "confidence": 0.023683665,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.0022913499,
+            "confidence": 0.00044206626,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.66799474,
+            "confidence": 0.98077631,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.56045365,
-              "y": 0.25929174
+              "x": 0.47035342,
+              "y": 0.42024389
             },
-            "confidence": 0.98226404
+            "confidence": 0.93530905
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.57255161,
-              "y": 0.22489391
+              "x": 0.47560024,
+              "y": 0.4078145
             },
-            "confidence": 1.0061308
+            "confidence": 0.92134202
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.5435167,
-              "y": 0.22489391
+              "x": 0.46685547,
+              "y": 0.4078145
             },
-            "confidence": 0.99347389
+            "confidence": 0.82335579
           }, {
             "name": "left_ear",
             "point": {
-              "x": 0.58706909,
-              "y": 0.22489391
+              "x": 0.49483857,
+              "y": 0.39849249
             },
-            "confidence": 0.1776976
+            "confidence": 0.7947095
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.50722289,
-              "y": 0.2291936
+              "x": 0.46510655,
+              "y": 0.4078145
             },
-            "confidence": 0.95536554
+            "confidence": 0.014360748
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.5967474,
-              "y": 0.36248535
+              "x": 0.51232803,
+              "y": 0.44199523
             },
-            "confidence": 0.75027919
+            "confidence": 0.47096261
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.46850961,
-              "y": 0.37108481
+              "x": 0.47385129,
+              "y": 0.46374664
             },
-            "confidence": 0.80021966
+            "confidence": 0.6254195
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.64997822,
-              "y": 0.55597335
+              "x": 0.52457064,
+              "y": 0.45442462
             },
-            "confidence": 0.91851389
+            "confidence": 0.40410733
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.42495716,
-              "y": 0.59467089
+              "x": 0.45461288,
+              "y": 0.51657158
             },
-            "confidence": 0.92806345
+            "confidence": 0.56828082
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.61852354,
-              "y": 0.38828376
+              "x": 0.50183439,
+              "y": 0.42645857
             },
-            "confidence": 0.7124868
+            "confidence": 0.31932348
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.46850961,
-              "y": 0.46997869
+              "x": 0.45111504,
+              "y": 0.46996137
             },
-            "confidence": 0.79558504
+            "confidence": 0.6624403
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.59432781,
-              "y": 0.79675841
+              "x": 0.5315665,
+              "y": 0.63465065
             },
-            "confidence": 0.5033915
+            "confidence": 0.7571876
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.49512497,
-              "y": 0.80535793
+              "x": 0.50008547,
+              "y": 0.63775802
             },
-            "confidence": 0.51969802
+            "confidence": 0.68018901
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.51232803,
+              "y": 0.7806958
+            },
+            "confidence": 0.82732111
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.47909814,
+              "y": 0.74962229
+            },
+            "confidence": 0.51872265
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.54905587,
+              "y": 0.94227767
+            },
+            "confidence": 0.80812943
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49483857,
+              "y": 0.83973533
+            },
+            "confidence": 0.64446449
           } ]
         }, {
           "normalized_bounding_box": {
-            "left": 0.40040439,
-            "top": 0.06866125,
-            "right": 0.66756034,
-            "bottom": 0.98296952
+            "left": 0.4375813,
+            "top": 0.33350918,
+            "right": 0.56584507,
+            "bottom": 0.9945029
           },
           "time_offset": {
             "seconds": 1,
@@ -3272,227 +3664,1555 @@
           },
           "attributes": [ {
             "name": "UpperCloth",
-            "confidence": 0.0017765097,
+            "confidence": 0.00021500872,
             "value": "Yellow"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0095700007,
+            "confidence": 0.010842189,
             "value": "White"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0094285682,
+            "confidence": 0.002526016,
             "value": "TankTop"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.88797247,
+            "confidence": 0.26619005,
             "value": "T-Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00020792479,
+            "confidence": 0.021901689,
             "value": "Sweater"
           }, {
             "name": "UpperCloth",
-            "confidence": 9.7094824e-07,
+            "confidence": 0.0081288377,
             "value": "Suit"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.019672828,
+            "confidence": 0.020649167,
             "value": "Striped"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0010177939,
+            "confidence": 0.00048640001,
             "value": "Spotted"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.945481,
+            "confidence": 0.42707226,
             "value": "ShortSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0030847713,
+            "confidence": 0.24736425,
             "value": "Shirt"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0029070477,
+            "confidence": 0.00068654655,
             "value": "Red"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0077048461,
+            "confidence": 0.0005463303,
             "value": "Purple"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.34882379,
+            "confidence": 0.8954671,
             "value": "Plain"
           }, {
             "name": "UpperCloth",
-            "confidence": 7.5701297e-05,
+            "confidence": 0.00028177773,
             "value": "Plaid"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00011001706,
+            "confidence": 1.0156385e-05,
             "value": "Orange"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.028617097,
+            "confidence": 0.0052459869,
             "value": "NoSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.051954232,
+            "confidence": 0.011573832,
             "value": "MultiColor"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0083849542,
+            "confidence": 0.75053537,
             "value": "LongSleeve"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00091742584,
+            "confidence": 0.053985387,
             "value": "Jacket"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0065062591,
+            "confidence": 0.0037216747,
             "value": "Green"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.11429947,
+            "confidence": 0.81960231,
             "value": "Gray"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.45501447,
+            "confidence": 0.046730161,
             "value": "Graphics"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0012710693,
+            "confidence": 0.00029625787,
             "value": "Floral"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.0022998615,
+            "confidence": 0.0025394226,
             "value": "Dress"
           }, {
             "name": "UpperCloth",
-            "confidence": 2.5130925e-07,
+            "confidence": 0.0031570925,
             "value": "Coat"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.00023924871,
+            "confidence": 8.5407555e-06,
             "value": "Brown"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.12926932,
+            "confidence": 0.013394839,
             "value": "Blue"
           }, {
             "name": "UpperCloth",
-            "confidence": 0.80153257,
+            "confidence": 0.020596234,
             "value": "Black"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.0098795993,
+            "confidence": 0.0070721144,
             "value": "ShortSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.62886447,
+            "confidence": 0.060982052,
             "value": "ShortPants"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.00095106795,
+            "confidence": 0.00018480513,
             "value": "LongSkirt"
           }, {
             "name": "LowerCloth",
-            "confidence": 0.64272243,
+            "confidence": 0.97229797,
             "value": "LongPants"
           } ],
           "landmarks": [ {
             "name": "nose",
             "point": {
-              "x": 0.54758531,
-              "y": 0.23932354
+              "x": 0.46942431,
+              "y": 0.42005882
             },
-            "confidence": 0.98476785
+            "confidence": 0.95589966
           }, {
             "name": "left_eye",
             "point": {
-              "x": 0.55973995,
-              "y": 0.20476429
+              "x": 0.47468957,
+              "y": 0.40758565
             },
-            "confidence": 1.0046061
+            "confidence": 0.96367592
           }, {
             "name": "right_eye",
             "point": {
-              "x": 0.5281378,
-              "y": 0.2090842
+              "x": 0.46415895,
+              "y": 0.40758565
             },
-            "confidence": 0.9927879
+            "confidence": 0.92050582
           }, {
             "name": "left_ear",
             "point": {
-              "x": 0.57432556,
-              "y": 0.2090842
+              "x": 0.49399567,
+              "y": 0.40134913
             },
-            "confidence": 0.42336068
+            "confidence": 0.91454107
           }, {
             "name": "right_ear",
             "point": {
-              "x": 0.49410471,
-              "y": 0.21772403
+              "x": 0.46064878,
+              "y": 0.40446734
             },
-            "confidence": 0.97037065
+            "confidence": 0.025200021
           }, {
             "name": "left_shoulder",
             "point": {
-              "x": 0.59377301,
-              "y": 0.36028105
+              "x": 0.51154667,
+              "y": 0.44500509
             },
-            "confidence": 0.70742446
+            "confidence": 0.69386709
           }, {
             "name": "right_shoulder",
             "point": {
-              "x": 0.45520973,
-              "y": 0.36892086
+              "x": 0.46942431,
+              "y": 0.46059641
             },
-            "confidence": 0.81553674
+            "confidence": 0.60165834
           }, {
             "name": "left_elbow",
             "point": {
-              "x": 0.63752979,
-              "y": 0.56331688
+              "x": 0.54138339,
+              "y": 0.49801585
             },
-            "confidence": 0.91687924
+            "confidence": 0.74807751
           }, {
             "name": "right_elbow",
             "point": {
-              "x": 0.41145295,
-              "y": 0.59355623
+              "x": 0.45362839,
+              "y": 0.52296215
             },
-            "confidence": 0.90352309
+            "confidence": 0.62014925
           }, {
             "name": "left_wrist",
             "point": {
-              "x": 0.60835856,
-              "y": 0.39916024
+              "x": 0.50803649,
+              "y": 0.48242447
             },
-            "confidence": 0.69784296
+            "confidence": 0.58859962
           }, {
             "name": "right_wrist",
             "point": {
-              "x": 0.45764068,
-              "y": 0.47691861
+              "x": 0.44836307,
+              "y": 0.47930616
             },
-            "confidence": 0.83245182
+            "confidence": 0.66205561
           }, {
             "name": "left_hip",
             "point": {
-              "x": 0.5864802,
-              "y": 0.796592
+              "x": 0.53085285,
+              "y": 0.63833863
             },
-            "confidence": 0.44100237
+            "confidence": 0.73401189
           }, {
             "name": "right_hip",
             "point": {
-              "x": 0.48438099,
-              "y": 0.80523187
+              "x": 0.50101608,
+              "y": 0.63833863
             },
-            "confidence": 0.50662386
+            "confidence": 0.68941408
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.50979161,
+              "y": 0.7848978
+            },
+            "confidence": 0.73988283
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.47995487,
+              "y": 0.7505967
+            },
+            "confidence": 0.46765941
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.55015886,
+              "y": 0.94081199
+            },
+            "confidence": 0.8369537
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49575081,
+              "y": 0.8410269
+            },
+            "confidence": 0.56223446
+          } ]
+        }, {
+          "normalized_bounding_box": {
+            "left": 0.43798971,
+            "top": 0.32460549,
+            "right": 0.56612635,
+            "bottom": 0.99843001
+          },
+          "time_offset": {
+            "seconds": 1,
+            "nanos": 501500000
+          },
+          "attributes": [ {
+            "name": "UpperCloth",
+            "confidence": 0.00011585817,
+            "value": "Yellow"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0054266783,
+            "value": "White"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0033318296,
+            "value": "TankTop"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.31671351,
+            "value": "T-Shirt"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.01447205,
+            "value": "Sweater"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.004186111,
+            "value": "Suit"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.01699396,
+            "value": "Striped"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00030659704,
+            "value": "Spotted"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.5389176,
+            "value": "ShortSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.24810231,
+            "value": "Shirt"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00041329727,
+            "value": "Red"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00033752533,
+            "value": "Purple"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.90990406,
+            "value": "Plain"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00023330683,
+            "value": "Plaid"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 4.2010124e-06,
+            "value": "Orange"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0066716098,
+            "value": "NoSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0059517738,
+            "value": "MultiColor"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.63240409,
+            "value": "LongSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.027372882,
+            "value": "Jacket"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0019155942,
+            "value": "Green"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.90796071,
+            "value": "Gray"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.040010482,
+            "value": "Graphics"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00020265579,
+            "value": "Floral"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0017171251,
+            "value": "Dress"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0010856888,
+            "value": "Coat"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 1.3942316e-06,
+            "value": "Brown"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.010865972,
+            "value": "Blue"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0017262786,
+            "value": "Black"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.0040637096,
+            "value": "ShortSkirt"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.068350837,
+            "value": "ShortPants"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 8.0914688e-05,
+            "value": "LongSkirt"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.97227407,
+            "value": "LongPants"
+          } ],
+          "landmarks": [ {
+            "name": "nose",
+            "point": {
+              "x": 0.46890926,
+              "y": 0.4068549
+            },
+            "confidence": 0.95035875
+          }, {
+            "name": "left_eye",
+            "point": {
+              "x": 0.47608384,
+              "y": 0.39092094
+            },
+            "confidence": 0.95806491
+          }, {
+            "name": "right_eye",
+            "point": {
+              "x": 0.46352822,
+              "y": 0.3941077
+            },
+            "confidence": 0.92013413
+          }, {
+            "name": "left_ear",
+            "point": {
+              "x": 0.4940204,
+              "y": 0.38773414
+            },
+            "confidence": 0.95194644
+          }, {
+            "name": "right_ear",
+            "point": {
+              "x": 0.46173459,
+              "y": 0.39092094
+            },
+            "confidence": 0.037103862
+          }, {
+            "name": "left_shoulder",
+            "point": {
+              "x": 0.51195705,
+              "y": 0.43872273
+            },
+            "confidence": 0.73360771
+          }, {
+            "name": "right_shoulder",
+            "point": {
+              "x": 0.46890926,
+              "y": 0.44509628
+            },
+            "confidence": 0.63231426
+          }, {
+            "name": "left_elbow",
+            "point": {
+              "x": 0.54424286,
+              "y": 0.50883198
+            },
+            "confidence": 0.84405404
+          }, {
+            "name": "right_elbow",
+            "point": {
+              "x": 0.45276627,
+              "y": 0.50883198
+            },
+            "confidence": 0.6902746
+          }, {
+            "name": "left_wrist",
+            "point": {
+              "x": 0.50836974,
+              "y": 0.48652449
+            },
+            "confidence": 0.59854329
+          }, {
+            "name": "right_wrist",
+            "point": {
+              "x": 0.44738537,
+              "y": 0.46421704
+            },
+            "confidence": 0.70661008
+          }, {
+            "name": "left_hip",
+            "point": {
+              "x": 0.52630627,
+              "y": 0.6299299
+            },
+            "confidence": 0.81043351
+          }, {
+            "name": "right_hip",
+            "point": {
+              "x": 0.49581409,
+              "y": 0.6299299
+            },
+            "confidence": 0.754704
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.51016337,
+              "y": 0.77333534
+            },
+            "confidence": 0.78901064
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.47967115,
+              "y": 0.74465424
+            },
+            "confidence": 0.45624739
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.54783016,
+              "y": 0.93904823
+            },
+            "confidence": 0.81115919
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49581409,
+              "y": 0.83707106
+            },
+            "confidence": 0.65367234
+          } ]
+        }, {
+          "normalized_bounding_box": {
+            "left": 0.43921337,
+            "top": 0.3169826,
+            "right": 0.56376261,
+            "bottom": 0.9969703
+          },
+          "time_offset": {
+            "seconds": 1,
+            "nanos": 601600000
+          },
+          "attributes": [ {
+            "name": "UpperCloth",
+            "confidence": 9.9055658e-05,
+            "value": "Yellow"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0095107583,
+            "value": "White"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0026323346,
+            "value": "TankTop"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.21627994,
+            "value": "T-Shirt"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.015100116,
+            "value": "Sweater"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0093536694,
+            "value": "Suit"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.016464218,
+            "value": "Striped"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0003200823,
+            "value": "Spotted"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.47427398,
+            "value": "ShortSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.36929226,
+            "value": "Shirt"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00035110413,
+            "value": "Red"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00030249709,
+            "value": "Purple"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.92374122,
+            "value": "Plain"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00034189541,
+            "value": "Plaid"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 2.5392369e-06,
+            "value": "Orange"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0061985971,
+            "value": "NoSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0059673968,
+            "value": "MultiColor"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.70324862,
+            "value": "LongSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.025659787,
+            "value": "Jacket"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0013301721,
+            "value": "Green"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.90542287,
+            "value": "Gray"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0298675,
+            "value": "Graphics"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00020296978,
+            "value": "Floral"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0017667494,
+            "value": "Dress"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.001818437,
+            "value": "Coat"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 1.2699542e-06,
+            "value": "Brown"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.009933644,
+            "value": "Blue"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0016388798,
+            "value": "Black"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.0048772506,
+            "value": "ShortSkirt"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.056811608,
+            "value": "ShortPants"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.00011242709,
+            "value": "LongSkirt"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.97530329,
+            "value": "LongPants"
+          } ],
+          "landmarks": [ {
+            "name": "nose",
+            "point": {
+              "x": 0.47077519,
+              "y": 0.39333016
+            },
+            "confidence": 0.96209633
+          }, {
+            "name": "left_eye",
+            "point": {
+              "x": 0.47800604,
+              "y": 0.38048312
+            },
+            "confidence": 0.96638399
+          }, {
+            "name": "right_eye",
+            "point": {
+              "x": 0.46715969,
+              "y": 0.38048312
+            },
+            "confidence": 0.93454617
+          }, {
+            "name": "left_ear",
+            "point": {
+              "x": 0.49608332,
+              "y": 0.37727135
+            },
+            "confidence": 0.94918907
+          }, {
+            "name": "right_ear",
+            "point": {
+              "x": 0.46354431,
+              "y": 0.37727135
+            },
+            "confidence": 0.049823079
+          }, {
+            "name": "left_shoulder",
+            "point": {
+              "x": 0.51596826,
+              "y": 0.43187159
+            },
+            "confidence": 0.73628032
+          }, {
+            "name": "right_shoulder",
+            "point": {
+              "x": 0.46896744,
+              "y": 0.4350833
+            },
+            "confidence": 0.74636424
+          }, {
+            "name": "left_elbow",
+            "point": {
+              "x": 0.54127645,
+              "y": 0.51537782
+            },
+            "confidence": 0.78856319
+          }, {
+            "name": "right_elbow",
+            "point": {
+              "x": 0.45089021,
+              "y": 0.50574249
+            },
+            "confidence": 0.66456866
+          }, {
+            "name": "left_wrist",
+            "point": {
+              "x": 0.50692964,
+              "y": 0.48004821
+            },
+            "confidence": 0.69404095
+          }, {
+            "name": "right_wrist",
+            "point": {
+              "x": 0.4526979,
+              "y": 0.45435402
+            },
+            "confidence": 0.46430218
+          }, {
+            "name": "left_hip",
+            "point": {
+              "x": 0.5195837,
+              "y": 0.62136644
+            },
+            "confidence": 0.77522063
+          }, {
+            "name": "right_hip",
+            "point": {
+              "x": 0.48885244,
+              "y": 0.62136644
+            },
+            "confidence": 0.73028386
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.51235282,
+              "y": 0.76910824
+            },
+            "confidence": 0.82200336
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.47981375,
+              "y": 0.74341398
+            },
+            "confidence": 0.63008499
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.54489195,
+              "y": 0.93612069
+            },
+            "confidence": 0.78734577
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49608332,
+              "y": 0.83334386
+            },
+            "confidence": 0.69270599
+          } ]
+        }, {
+          "normalized_bounding_box": {
+            "left": 0.4386099,
+            "top": 0.31143215,
+            "right": 0.55999416,
+            "bottom": 0.99448419
+          },
+          "time_offset": {
+            "seconds": 1,
+            "nanos": 701700000
+          },
+          "attributes": [ {
+            "name": "UpperCloth",
+            "confidence": 0.00011886904,
+            "value": "Yellow"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0088112317,
+            "value": "White"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0039258427,
+            "value": "TankTop"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.23481797,
+            "value": "T-Shirt"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.018069878,
+            "value": "Sweater"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0088052619,
+            "value": "Suit"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.015269666,
+            "value": "Striped"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00027660298,
+            "value": "Spotted"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.44732374,
+            "value": "ShortSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.31030095,
+            "value": "Shirt"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00039992196,
+            "value": "Red"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00033195832,
+            "value": "Purple"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.92934233,
+            "value": "Plain"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00022844577,
+            "value": "Plaid"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 3.8328594e-06,
+            "value": "Orange"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0070745009,
+            "value": "NoSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0066591832,
+            "value": "MultiColor"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.73105246,
+            "value": "LongSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.039405797,
+            "value": "Jacket"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0015699157,
+            "value": "Green"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.89382017,
+            "value": "Gray"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.027856585,
+            "value": "Graphics"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00018554546,
+            "value": "Floral"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0022124003,
+            "value": "Dress"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0031572895,
+            "value": "Coat"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 7.9850615e-06,
+            "value": "Brown"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0070047062,
+            "value": "Blue"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0042723939,
+            "value": "Black"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.0041637705,
+            "value": "ShortSkirt"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.059763227,
+            "value": "ShortPants"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 8.2183557e-05,
+            "value": "LongSkirt"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.9757154,
+            "value": "LongPants"
+          } ],
+          "landmarks": [ {
+            "name": "nose",
+            "point": {
+              "x": 0.47360247,
+              "y": 0.39113042
+            },
+            "confidence": 0.95510876
+          }, {
+            "name": "left_eye",
+            "point": {
+              "x": 0.48085403,
+              "y": 0.37824658
+            },
+            "confidence": 0.96814787
+          }, {
+            "name": "right_eye",
+            "point": {
+              "x": 0.46816382,
+              "y": 0.37824658
+            },
+            "confidence": 0.95484012
+          }, {
+            "name": "left_ear",
+            "point": {
+              "x": 0.49716997,
+              "y": 0.37502569
+            },
+            "confidence": 0.92941171
+          }, {
+            "name": "right_ear",
+            "point": {
+              "x": 0.46453804,
+              "y": 0.37502569
+            },
+            "confidence": 0.09807843
+          }, {
+            "name": "left_shoulder",
+            "point": {
+              "x": 0.51711178,
+              "y": 0.42978179
+            },
+            "confidence": 0.75546587
+          }, {
+            "name": "right_shoulder",
+            "point": {
+              "x": 0.46816382,
+              "y": 0.43300268
+            },
+            "confidence": 0.77978402
+          }, {
+            "name": "left_elbow",
+            "point": {
+              "x": 0.53705347,
+              "y": 0.51674742
+            },
+            "confidence": 0.84710193
+          }, {
+            "name": "right_elbow",
+            "point": {
+              "x": 0.45003495,
+              "y": 0.50386363
+            },
+            "confidence": 0.70317125
+          }, {
+            "name": "left_wrist",
+            "point": {
+              "x": 0.50804722,
+              "y": 0.47165412
+            },
+            "confidence": 0.61682653
+          }, {
+            "name": "right_wrist",
+            "point": {
+              "x": 0.45003495,
+              "y": 0.45232841
+            },
+            "confidence": 0.46302554
+          }, {
+            "name": "left_hip",
+            "point": {
+              "x": 0.51711178,
+              "y": 0.61981779
+            },
+            "confidence": 0.74658018
+          }, {
+            "name": "right_hip",
+            "point": {
+              "x": 0.48447976,
+              "y": 0.61981779
+            },
+            "confidence": 0.7776975
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.51529878,
+              "y": 0.76798141
+            },
+            "confidence": 0.83239472
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.47722822,
+              "y": 0.74865568
+            },
+            "confidence": 0.66796255
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.54249209,
+              "y": 0.93547076
+            },
+            "confidence": 0.79258192
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49716997,
+              "y": 0.83240032
+            },
+            "confidence": 0.62923121
+          } ]
+        }, {
+          "normalized_bounding_box": {
+            "left": 0.43888524,
+            "top": 0.30706596,
+            "right": 0.55642509,
+            "bottom": 0.99164796
+          },
+          "time_offset": {
+            "seconds": 1,
+            "nanos": 801800000
+          },
+          "attributes": [ {
+            "name": "UpperCloth",
+            "confidence": 0.00011329773,
+            "value": "Yellow"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0093890419,
+            "value": "White"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0019263836,
+            "value": "TankTop"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.1399648,
+            "value": "T-Shirt"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.016821526,
+            "value": "Sweater"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.027377268,
+            "value": "Suit"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.01583945,
+            "value": "Striped"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0003223742,
+            "value": "Spotted"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.35427025,
+            "value": "ShortSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.44548073,
+            "value": "Shirt"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00045921357,
+            "value": "Red"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00045553126,
+            "value": "Purple"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.94133717,
+            "value": "Plain"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00034621605,
+            "value": "Plaid"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 4.2867391e-06,
+            "value": "Orange"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0047702491,
+            "value": "NoSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0074531655,
+            "value": "MultiColor"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.81350231,
+            "value": "LongSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.031024037,
+            "value": "Jacket"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0014137232,
+            "value": "Green"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.88316739,
+            "value": "Gray"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.017587032,
+            "value": "Graphics"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00020328292,
+            "value": "Floral"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00206551,
+            "value": "Dress"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0048133819,
+            "value": "Coat"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 5.5493188e-06,
+            "value": "Brown"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0097041102,
+            "value": "Blue"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0051707411,
+            "value": "Black"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.0053911731,
+            "value": "ShortSkirt"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.042952005,
+            "value": "ShortPants"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.00012282716,
+            "value": "LongSkirt"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.97947723,
+            "value": "LongPants"
+          } ],
+          "landmarks": [ {
+            "name": "nose",
+            "point": {
+              "x": 0.47630388,
+              "y": 0.38861594
+            },
+            "confidence": 0.92740655
+          }, {
+            "name": "left_eye",
+            "point": {
+              "x": 0.48175335,
+              "y": 0.37570655
+            },
+            "confidence": 0.96639818
+          }, {
+            "name": "right_eye",
+            "point": {
+              "x": 0.47085446,
+              "y": 0.37570655
+            },
+            "confidence": 0.94520164
+          }, {
+            "name": "left_ear",
+            "point": {
+              "x": 0.49991816,
+              "y": 0.36925194
+            },
+            "confidence": 0.93962729
+          }, {
+            "name": "right_ear",
+            "point": {
+              "x": 0.46540499,
+              "y": 0.3724792
+            },
+            "confidence": 0.10849614
+          }, {
+            "name": "left_shoulder",
+            "point": {
+              "x": 0.51808304,
+              "y": 0.42734399
+            },
+            "confidence": 0.71141791
+          }, {
+            "name": "right_shoulder",
+            "point": {
+              "x": 0.46722144,
+              "y": 0.43057138
+            },
+            "confidence": 0.73486555
+          }, {
+            "name": "left_elbow",
+            "point": {
+              "x": 0.53443134,
+              "y": 0.51448214
+            },
+            "confidence": 0.7701
+          }, {
+            "name": "right_elbow",
+            "point": {
+              "x": 0.44905663,
+              "y": 0.50157285
+            },
+            "confidence": 0.65540034
+          }, {
+            "name": "left_wrist",
+            "point": {
+              "x": 0.50900066,
+              "y": 0.46284476
+            },
+            "confidence": 0.60281193
+          }, {
+            "name": "right_wrist",
+            "point": {
+              "x": 0.44905663,
+              "y": 0.44670805
+            },
+            "confidence": 0.44099766
+          }, {
+            "name": "left_hip",
+            "point": {
+              "x": 0.51808304,
+              "y": 0.61775702
+            },
+            "confidence": 0.73402822
+          }, {
+            "name": "right_hip",
+            "point": {
+              "x": 0.4835698,
+              "y": 0.61452973
+            },
+            "confidence": 0.7715674
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.51808304,
+              "y": 0.76944208
+            },
+            "confidence": 0.8142727
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.47630388,
+              "y": 0.75330532
+            },
+            "confidence": 0.63323331
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.53988081,
+              "y": 0.93403649
+            },
+            "confidence": 0.81640327
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49628526,
+              "y": 0.83076155
+            },
+            "confidence": 0.69961536
+          } ]
+        }, {
+          "normalized_bounding_box": {
+            "left": 0.43841302,
+            "top": 0.2984648,
+            "right": 0.55634582,
+            "bottom": 0.989537
+          },
+          "time_offset": {
+            "seconds": 1,
+            "nanos": 901900000
+          },
+          "attributes": [ {
+            "name": "UpperCloth",
+            "confidence": 7.7847886e-05,
+            "value": "Yellow"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0078003295,
+            "value": "White"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0024278136,
+            "value": "TankTop"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.13357617,
+            "value": "T-Shirt"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.017094294,
+            "value": "Sweater"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.045029592,
+            "value": "Suit"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.014763097,
+            "value": "Striped"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00036874102,
+            "value": "Spotted"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.35579684,
+            "value": "ShortSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.43419534,
+            "value": "Shirt"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00034468796,
+            "value": "Red"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00048224287,
+            "value": "Purple"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.94520879,
+            "value": "Plain"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00028832516,
+            "value": "Plaid"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 2.7167855e-06,
+            "value": "Orange"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0062647918,
+            "value": "NoSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.005593176,
+            "value": "MultiColor"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.81124669,
+            "value": "LongSleeve"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.028626524,
+            "value": "Jacket"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0010452445,
+            "value": "Green"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.89084136,
+            "value": "Gray"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.015798753,
+            "value": "Graphics"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.00022196173,
+            "value": "Floral"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0030129666,
+            "value": "Dress"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.0071671475,
+            "value": "Coat"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 4.3002578e-06,
+            "value": "Brown"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.007926859,
+            "value": "Blue"
+          }, {
+            "name": "UpperCloth",
+            "confidence": 0.005309599,
+            "value": "Black"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.0082597537,
+            "value": "ShortSkirt"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.043635651,
+            "value": "ShortPants"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.00021864139,
+            "value": "LongSkirt"
+          }, {
+            "name": "LowerCloth",
+            "confidence": 0.97750032,
+            "value": "LongPants"
+          } ],
+          "landmarks": [ {
+            "name": "nose",
+            "point": {
+              "x": 0.47764254,
+              "y": 0.3837204
+            },
+            "confidence": 0.94954133
+          }, {
+            "name": "left_eye",
+            "point": {
+              "x": 0.48498338,
+              "y": 0.37067795
+            },
+            "confidence": 0.97138619
+          }, {
+            "name": "right_eye",
+            "point": {
+              "x": 0.47213688,
+              "y": 0.37067795
+            },
+            "confidence": 0.95607859
+          }, {
+            "name": "left_ear",
+            "point": {
+              "x": 0.50150043,
+              "y": 0.36415672
+            },
+            "confidence": 0.97211742
+          }, {
+            "name": "right_ear",
+            "point": {
+              "x": 0.46846646,
+              "y": 0.36741731
+            },
+            "confidence": 0.11345795
+          }, {
+            "name": "left_shoulder",
+            "point": {
+              "x": 0.52168775,
+              "y": 0.42284787
+            },
+            "confidence": 0.78383964
+          }, {
+            "name": "right_shoulder",
+            "point": {
+              "x": 0.47030163,
+              "y": 0.42610851
+            },
+            "confidence": 0.63662076
+          }, {
+            "name": "left_elbow",
+            "point": {
+              "x": 0.53453434,
+              "y": 0.51088476
+            },
+            "confidence": 0.78710598
+          }, {
+            "name": "right_elbow",
+            "point": {
+              "x": 0.45011431,
+              "y": 0.49458161
+            },
+            "confidence": 0.70866776
+          }, {
+            "name": "left_wrist",
+            "point": {
+              "x": 0.50884122,
+              "y": 0.4521935
+            },
+            "confidence": 0.4983272
+          }, {
+            "name": "right_wrist",
+            "point": {
+              "x": 0.45378476,
+              "y": 0.43589041
+            },
+            "confidence": 0.65003181
+          }, {
+            "name": "left_hip",
+            "point": {
+              "x": 0.51801729,
+              "y": 0.61196399
+            },
+            "confidence": 0.71595466
+          }, {
+            "name": "right_hip",
+            "point": {
+              "x": 0.48498338,
+              "y": 0.61196399
+            },
+            "confidence": 0.77046025
+          }, {
+            "name": "left_knee",
+            "point": {
+              "x": 0.51985258,
+              "y": 0.76521337
+            },
+            "confidence": 0.8064785
+          }, {
+            "name": "right_knee",
+            "point": {
+              "x": 0.48131293,
+              "y": 0.74564958
+            },
+            "confidence": 0.60036999
+          }, {
+            "name": "left_ankle",
+            "point": {
+              "x": 0.54187506,
+              "y": 0.9249838
+            },
+            "confidence": 0.78690934
+          }, {
+            "name": "right_ankle",
+            "point": {
+              "x": 0.49782991,
+              "y": 0.83042568
+            },
+            "confidence": 0.67195296
           } ]
         } ],
-        "confidence": 0.94612944
+        "confidence": 0.91619313
       } ],
       "version": "1.0"
     } ]
