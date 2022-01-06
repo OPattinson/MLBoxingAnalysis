@@ -1,3 +1,11 @@
+<p align="center">
+  <img src='images/jab.png' width=auto, height=400>
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src='images/uppercut.png' width=auto, height=400>
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src='images/hook.png' width=auto, height=400>
+</p>
+
 # MLBoxingAnalysis
 During this project I will be training a Long Short Term Memory (LSTM) network to detect which punch is being thrown during shadow boxing. This project was inspired by a talk given by [Zack Akil](https://github.com/ZackAkil/) about using Google's VideoIntelligence API to analyse a penalty shootout, as well as [Dale Markowitz](https://daleonai.com/machine-learning-for-sports)'s tennis serve analyser and [Anudeep Ayinaparthi](https://github.com/anudeepayina/CricketTracker)'s cricket shot classifier. 
 
